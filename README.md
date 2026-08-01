@@ -11,6 +11,7 @@ An end-to-end data analytics project focused on transaction performance, fraud r
 
 ## Project Overview
 
+![Workflow](images/workflow.png)
 The project analyses customer, merchant, device, transaction and fraud-alert data to identify:
 
 - Transaction success and failure patterns
