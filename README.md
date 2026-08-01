@@ -22,6 +22,9 @@ The project analyses customer, merchant, device, transaction and fraud-alert dat
 
 ## Key Findings
 
+## Key Business Finding
+
+![Rooted Device Fraud](images/rooted-device-fraud.png)
 - 100,000 transactions analysed
 - 92.14% transaction success rate
 - 5.87% transaction failure rate
