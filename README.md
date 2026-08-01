@@ -9,6 +9,13 @@ An end-to-end data analytics project focused on transaction performance, fraud r
 # UPI Transaction Analysis Capstone Project
 ![Website Home](images/website_home.png)
 
+## Powerbi Dashboard
+
+### Executive Dashboard
+![Executive Dashboard](images/executive-dashboard.png)
+
+### fraud Dashboard
+![Fraud Dashboard](images/fraud-dashboard.png)
 ## Project Overview
 
 The project analyses customer, merchant, device, transaction and fraud-alert data to identify:
