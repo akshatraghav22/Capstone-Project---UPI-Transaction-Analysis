@@ -11,7 +11,6 @@ An end-to-end data analytics project focused on transaction performance, fraud r
 
 ## Project Overview
 
-![Workflow](images/workflow.png)
 The project analyses customer, merchant, device, transaction and fraud-alert data to identify:
 
 - Transaction success and failure patterns
@@ -47,6 +46,7 @@ The strongest finding was that rooted devices had nearly 15 times the fraud rate
 
 ## Project Workflow
 
+![Workflow](images/workflow.png)
 1. Data validation in Excel
 2. Database design and analysis in SQL
 3. Exploratory data analysis in Python
