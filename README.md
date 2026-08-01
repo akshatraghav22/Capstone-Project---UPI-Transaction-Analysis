@@ -14,7 +14,7 @@ An end-to-end data analytics project focused on transaction performance, fraud r
 ### Executive Dashboard
 ![Executive Dashboard](images/executive-dashboard.png)
 
-### fraud Dashboard
+### Fraud Dashboard
 ![Fraud Dashboard](images/fraud-dashboard.png)
 ## Project Overview
 
