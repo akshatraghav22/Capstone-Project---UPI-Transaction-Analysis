@@ -6,6 +6,9 @@ An end-to-end data analytics project focused on transaction performance, fraud r
 
 [View Interactive Dashboard](https://akshatraghav22.github.io/Capstone-Project---UPI-Transaction-Analysis/)
 
+# UPI Transaction Analysis Capstone Project
+![Website Home](images/website-home.png)
+
 ## Project Overview
 
 The project analyses customer, merchant, device, transaction and fraud-alert data to identify:
