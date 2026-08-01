@@ -4,7 +4,7 @@ An end-to-end data analytics project focused on transaction performance, fraud r
 
 ## Live Dashboard
 
-[View Interactive Dashboard](file:///C:/Users/akshat/Downloads/4414701-Datasets_-_UPI_Transactions_Data_Analysis/UPI%20Ttransaction%20Analysis%20Portfolio.html)
+[View Interactive Dashboard](https://akshatraghav22.github.io/Capstone-Project---UPI-Transaction-Analysis/)
 
 ## Project Overview
 
