@@ -8,7 +8,7 @@ An end-to-end data analytics project focused on transaction performance, fraud r
 
 # UPI Transaction Analysis Capstone Project
 ![Website Home](images/website_home.png)
-
+![Website dashboard](images/website-dashboard.png)
 ## Powerbi Dashboard
 
 ### Executive Dashboard
